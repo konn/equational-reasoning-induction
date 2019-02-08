@@ -1,0 +1,7 @@
+resolver: lts-12.2
+
+flags: {}
+packages:
+- '.'
+
+extra-deps: []
